@@ -1,0 +1,29 @@
+:root {
+	font-size: 16px;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+}
+
+/* .icon {
+	width: 1.5rem;
+	height: 1.5rem;
+	vertical-align: -0.1875rem;
+	fill: currentColor;
+	overflow: hidden;
+} */
+img {
+	height: 100%;
+	width: 100%;
+	user-select: none;
+}
+.van-tabs__line {
+	display: none;
+}
